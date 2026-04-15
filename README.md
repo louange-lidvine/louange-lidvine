@@ -1,4 +1,4 @@
-<div align="center"><img src="https://storage.googleapis.com/pai-images/01dad24e76cf401090bcf0d0ad7daeec.jpeg" alt="girl coding" height="500" width="500" /></div>
+<div align="center"><img src="https://github.com/louange-lidvine.png" alt="Louange Lidvine" height="200" width="200" style="border-radius:50%" /></div>
 
 <h1 align="center">Hi 👋, I'm Louange Lidvine</h1>
 <h3 align="center">Frontend Developer & Data Analyst | Rwanda 🇷🇼</h3>

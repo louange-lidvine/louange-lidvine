@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/louange-lidvine.png" width="160" style="border-radius:50%;border:4px solid #7c3aed" alt="Louange Lidvine"/>
+<img src="./github_image.jpg" width="160" style="border-radius:50%;border:4px solid #7c3aed" alt="Louange Lidvine"/>
 
 <br/>
 

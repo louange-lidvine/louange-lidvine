@@ -139,11 +139,11 @@ I care deeply about using data to improve **public services, healthcare systems,
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-website-blue-five.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-website-taupe-pi-18.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/louange-lidvine-114aa6261)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/lidvinelouange)
 [![Email](https://img.shields.io/badge/Email-Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lidvinelouange@gmail.com)
-[![CV](https://img.shields.io/badge/CV-Download-10b981?style=for-the-badge&logo=googledrive&logoColor=white)](https://docs.google.com/document/d/1z42Bsycj3viUcDtefdsnhLfo7seEIC1O2nS-OIs3c4c/edit?usp=sharing)
+[![CV](https://img.shields.io/badge/CV-Download-10b981?style=for-the-badge&logo=googledrive&logoColor=white)](https://docs.google.com/document/d/1sADcawA-r4cRYqmOHGpr4g24AUjhfPTG6lsBnNi0t6g/edit?usp=sharing)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/lidvine)
 
 </div>
